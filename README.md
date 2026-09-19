@@ -3,7 +3,7 @@
 Axel Bahizi | Python Developer | Automation & AI Tools
 
 Building practical tools that solve actual problems. 
-What I Build
+What I Build:
 
     Data pipelines and automation scripts in Python
     REST APIs with FastAPI and Flask
