@@ -2,7 +2,7 @@
 
 Axel Bahizi | Python Developer | Automation & AI Tools
 
-Building practical tools that solve actual problems. Based in Nairobi, Kenya.
+Building practical tools that solve actual problems. 
 What I Build
 
     Data pipelines and automation scripts in Python
